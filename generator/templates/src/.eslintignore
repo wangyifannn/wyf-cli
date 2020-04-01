@@ -1,0 +1,11 @@
+*.ts
+build/*.js
+src/assets
+public
+dist
+.vscode-server
+node_modules
+src/easy-table
+src/elementUI
+static
+webim.js

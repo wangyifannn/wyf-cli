@@ -1,0 +1,22 @@
+{
+  "name": "wyf-cli",
+  "version": "1.0.1",
+  "description": "vue cli to init project environment",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com:wangyifannn/wyf-cli.git"
+  },
+  "keywords": [
+    "syhh",
+    "syhh-cli",
+    "vue-cli",
+    "cli"
+  ],
+  "author": "Leopoldthecoder",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/wangyifannn/wyf-cli/issues"
+  },
+  "homepage": "https://github.com/wangyifannn/wyf-clit#readme"
+}
